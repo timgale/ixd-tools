@@ -5,7 +5,7 @@ A list of Interaction Design Tools
 - [Axure](http://axure.com)
 - [After Effects](http://adobe.com/products/aftereffects.html)
 - [Balsamiq](http://balsamiq.com)
-- [Briefs](http://giveabrief)
+- [Briefs](http://giveabrief.com)
 - [Flinto](http://flinto.com)
 - [Fluid UI](http://fluidui.com)
 - [Framer](http://framerjs.com)
