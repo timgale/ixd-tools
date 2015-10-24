@@ -18,6 +18,7 @@ A list of Interaction Design Tools
 - [Notism](http://notism.io)
 - [Origami](http://facebook.github.io/origami)
 - [Pixate](http://pixate.com)
+- [Principle](http://principleformac.com/)
 - [Proto.io](http://proto.io)
 - [Protoshare](http://protoshare.com)
 - [Quartz Composer](https://developer.apple.com/technologies/mac/graphics-and-animation.html)
